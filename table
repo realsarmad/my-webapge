@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>test</title>
+</head>
+
+<body>
+    <h1>SARMAD</h1>
+    <h2>SARMAD</h1>
+        <p>Lorem ipsum <b> dolor </b> sit amet, consectetur adipisicing elit. Amet dolore distinctio id at voluptatem
+            tempore ad dolorum sequi repellat fugit repudiandae aspernatur beatae, esse corrupti velit ipsam delectus
+            veritatis cumque.</p>
+        <b>CO<sub>2</sub></b>
+        <p>laptop computer</p>
+        <p><s>dell pc available</s></p>
+        <ol>
+            <li>mix flour,egg,milk,shugar and cocopowder in a bowl</li>
+            <li>take a laddle</li>
+            <li>pour oil in pan</li>
+            <li>pour the batter using a laddle into the pan</li>
+            <li>fry the panacke on low heat</li>
+            <li>slide it out when its ready</li>
+        </ol>
+        <ul>
+            <li>mix flour,egg,milk,shugar and cocopowder in a bowl</li>
+            <li>take a laddle</li>
+            <li>pour oil in pan</li>
+            <li>pour the batter using a laddle into the pan</li>
+            <li>fry the panacke on low heat</li>
+            <li>slide it out when its ready</li>
+        </ul>
+        <ol>
+            <li>PUNJAB
+                <ul>
+                    <li>islamabad</li>
+                    <li>lahore</li>
+                    <li>faislabad</li>
+                </ul>
+
+            <li>SINDH
+                <ul>
+                    <li>karachi</li>
+                    <li>multan</li>
+                    <li>hyderabad</li>
+                </ul>
+            </li>
+            <li>KPK</li>
+            <li>BALOCHISTAN
+                <ul>
+                    <li>quetta</li>
+                </ul>
+            </li>
+
+            </ul>
+        </ol>
+        <p>WEBSITES
+        <ul>
+            <li><a herf="http://www.google.com">ROLLS ROYCE</a></li>
+        </ul>
+        </p>
+
+
+<p>website
+    <ul>
+        <li><a href="https://www.rolls-roycemotorcars.com/en_GB/home.html">ROLLS ROYCE</a></li>
+
+    </ul>
+</p>
+
+        <img src="https://i.insider.com/57473ca491058426008c5378?width=1000&format=jpeg&auto=webp" alt="">
+    <table>
+        <tr>
+            <th>1)</th>
+            <td>sarmad</td>
+            <td>EL-19310</td>
+        </tr>
+        <tr>
+            <td>2)</td>
+            <td>muzzamil</td>
+            <td>EL-304</td>
+        </tr>
+        <tr>
+            <td>3)</td>
+            <td>noor</td>
+            <td>EL-19201</td>
+        </tr>
+    </table>
+
+    <table border="2" bgcolor="#969696">
+        <tr>
+            <th width="150"></th>
+            <th>withdrawn</th>
+            <th>credit</th>
+            <th width="150" bgcolor="#cccccc">Balence</th>
+        </tr>
+        <tr>
+            <th>January</th>
+            <td>$120</td>
+            <td>$25000</td>
+            <td>$5000000</td>
+        </tr>
+        <tr>
+            <th>Febuary</th>
+            <td>$300</td>
+            <td>$40000</td>
+            <td>$4380000</td>
+        </tr>
+
+    </table>
+    <table border="1" bgcolor="#008000" >
+        <tr>
+            <th style="color:rgb(255, 255, 255)" colspan="6">STUDENT MARKSHEET</th>
+        </tr>
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0" >Name</td>
+            <td style="text-align:center"bgcolor="#99C68E">Maths</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">Science</td>
+            <td style="text-align:center"bgcolor="#99C68E">English</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">Physics</td>
+            <td style="text-align:center"bgcolor="#99C68E">General knowledge</td>
+        </tr>
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0">David</td>
+            <td style="text-align:center"bgcolor="#99C68E">85</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">87</td>
+            <td style="text-align:center"bgcolor="#99C68E">88</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">92</td>
+            <td style="text-align:center"bgcolor="#99C68E">88</td>
+        </tr>
+
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0">Richard</td>
+            <td style="text-align:center"bgcolor="#99C68E">54</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">76</td>
+            <td style="text-align:center"bgcolor="#99C68E">88</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">90</td>
+            <td style="text-align:center"bgcolor="#99C68E">87</td>
+        </tr>
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0">John</td>
+            <td style="text-align:center"bgcolor="#99C68E">87</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">77</td>
+            <td style="text-align:center"bgcolor="#99C68E">89</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">90</td>
+            <td style="text-align:center"bgcolor="#99C68E">92</td>
+        </tr>
+       
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0">Tony</td>
+            <td style="text-align:center"bgcolor="#99C68E">88</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">90</td>
+            <td style="text-align:center"bgcolor="#99C68E">41</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">88</td>
+            <td style="text-align:center"bgcolor="#99C68E">93</td>
+        </tr>
+        <tr>
+            <td style="text-align:center"bgcolor="#FFFFE0">Scott</td>
+            <td style="text-align:center"bgcolor="#99C68E">99</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">67</td>
+            <td style="text-align:center"bgcolor="#99C68E">81</td>
+            <td style="text-align:center"bgcolor="#FFFFE0">91</td>
+            <td style="text-align:center"bgcolor="#99C68E">88</td>
+        </tr>
+
+    </table>
+
+</html>
